@@ -68,6 +68,7 @@ I focus on **real-world systems**, not just theory.
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jairoy2426&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jairoy2426&layout=compact&theme=radical)
 
 🔥 **Contribution Streak**
