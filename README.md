@@ -64,13 +64,6 @@ I focus on **real-world systems**, not just theory.
 - Experience with Discord and CLI-based bots
 - Focus on reliability, security, and controlled access
 
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jairoy2426&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jairoy2426&layout=compact&theme=radical)
-
 🔥 **Contribution Streak**
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jairoy2426&theme=radical)
