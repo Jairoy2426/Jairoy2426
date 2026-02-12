@@ -13,7 +13,7 @@ I focus on **real-world systems**, not just theory.
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jairoy2426-181717?logo=github)](https://github.com/Jairoy2426)
-[![Discord](https://img.shields.io/badge/Discord-Hercules-5865F2?logo=discord&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-.herculesdev-5865F2?logo=discord&logoColor=white)](#)
 
 ## 🛠 Tech Stack
 
@@ -26,6 +26,8 @@ I focus on **real-world systems**, not just theory.
 ![Linux](https://img.shields.io/badge/Linux-000000?logo=linux)
 ![Nmap](https://img.shields.io/badge/Nmap-004170)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security-orange)
+![Metasploit](https://img.shields.io/badge/Metasploit-Penetration%20Testing-blueviolet)
 ![Firewall](https://img.shields.io/badge/Firewall-Security-critical)
 
 ### ☁ Hosting & Cloud
@@ -42,25 +44,26 @@ I focus on **real-world systems**, not just theory.
 
 ## 🚀 Featured Projects
 
-🔹 **Intrusion Detection System (IDS)**
+### 🔹 Intrusion Detection System (IDS)
 - Network traffic monitoring and intrusion detection
 - Focused on identifying suspicious patterns and abnormal behavior
 - Built with a security-first and performance-oriented approach
 
-🔹 **DDoS Detection System**
+### 🔹 DDoS Detection System
 - Detection of high-volume and abnormal traffic patterns
 - Designed for early warning and mitigation support
 - Useful for server protection and traffic analysis
 
-🔹 **CTF Writeups & Security Labs**
+### 🔹 CTF Writeups & Security Labs
 - Hands-on practice with Capture The Flag challenges
 - Topics include Linux, networking, web security, and exploitation
 - Documented learning through structured writeups
 
-🔹 **Bot Creation & Automation**
+### 🔹 Bot Creation & Automation
 - Development of automation bots for tasks and monitoring
-- Experience with Discord / CLI-based bots
+- Experience with Discord and CLI-based bots
 - Focus on reliability, security, and controlled access
+
 
 ## 📊 GitHub Stats
 
