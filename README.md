@@ -8,6 +8,12 @@
 
 <p align="center">
   <a href="https://github.com/Jairoy2426">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=0E75B6&center=true&vCenter=true&width=680&lines=Cybersecurity+Engineer+%7C+DevSecOps+%7C+Infrastructure;SIEM+%C2%B7+Detection+Engineering+%C2%B7+MITRE+ATT%26CK;Linux+Hardening+%C2%B7+Docker+%C2%B7+Cloudflare+%C2%B7+Nginx;Security+Automation+%C2%B7+CI%2FCD+%C2%B7+Proxmox+VE" alt="Typing animation"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jairoy2426">
     <img src="https://img.shields.io/badge/GitHub-Jairoy2426-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -30,58 +36,35 @@ I am not pursuing generic software development. My focus is security engineering
 
 ## Security Focus
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-
 **Security Operations**
-- SIEM deployment and configuration (Wazuh)
-- Log collection and analysis
-- Custom detection rule authoring
-- MITRE ATT&amp;CK technique mapping
-- Windows Event Log auditing (Sysmon, PowerShell, Defender)
-- File Integrity Monitoring (FIM)
-- Security Configuration Assessment (CIS benchmarks)
+- SIEM deployment and configuration (Wazuh 4.12)
+- Custom detection rule authoring — MITRE ATT&CK technique mapping
+- Windows Event Log collection (Sysmon, PowerShell, Defender, Security, System)
+- File Integrity Monitoring (FIM) — real-time hash tracking
+- Security Configuration Assessment against CIS benchmarks
 - Alert correlation and brute-force detection
 
-    </td>
-    <td valign="top" width="33%">
-
 **Infrastructure Security**
-- Linux server hardening
-- CIS benchmark auditing across 12 OS surfaces
-- SSH hardening
-- Firewall and network access control
+- Linux server hardening — CIS benchmark auditing across 12 OS surfaces
+- SSH hardening, firewall and network access control
 - Reverse proxy configuration and service isolation (Nginx)
 - Cloudflare DNS, traffic filtering, and origin shielding
-- Docker service isolation
-- Secure service exposure
-
-    </td>
-    <td valign="top" width="33%">
+- Docker service isolation and secure service exposure
 
 **Security Engineering**
-- Security tooling development (Python)
-- Secret leakage detection (regex + entropy analysis)
+- Security tooling development (Python) — scanners, auditors, pipelines
+- Secret leakage detection via regex + Shannon entropy analysis
 - Automated CVE/vulnerability querying (NVD, OSV APIs)
-- Web application security scanning (ports, headers, SSL)
-- Network intrusion detection research (ML)
+- Web application security scanning — ports, headers, SSL, fingerprinting
+- Network intrusion detection research (ML-based IDS)
 - Virtualization-based lab environments (Proxmox VE)
 - CI/CD security integration
-
-    </td>
-  </tr>
-</table>
 
 ---
 
 <!-- ========================= TECH STACK ========================= -->
 
 ## Tech Stack
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
 
 **Security**
 
@@ -95,16 +78,10 @@ I am not pursuing generic software development. My focus is security engineering
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
-
-**Cloud / Edge**
-
+![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-    </td>
-    <td valign="top" width="50%">
-
-**Automation &amp; DevOps**
+**Automation & DevOps**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -123,10 +100,6 @@ I am not pursuing generic software development. My focus is security engineering
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -197,7 +170,7 @@ FastAPI backend with a dashboard frontend for scanning web targets across multip
 
 ---
 
-## DevOps &amp; Infrastructure Projects
+## DevOps & Infrastructure Projects
 
 ---
 
@@ -266,6 +239,9 @@ Examples from my work:
 | [HashCracker](https://github.com/Jairoy2426/HashCracker) | Security Tooling | Python, FastAPI, Socket/SSL | Reconnaissance tooling, web security analysis, port scanning |
 | [ci-cd-pipeline](https://github.com/Jairoy2426/ci-cd-pipeline) | DevSecOps | GitHub Actions, Docker, Nginx, Bash | CI/CD automation, hardened deployment, container security |
 | [homelab-command-center](https://github.com/Jairoy2426/homelab-command-center) | Infrastructure | Next.js 15, Prisma, PostgreSQL, Docker | Self-hosted infrastructure, telemetry, authenticated dashboards |
+| [Herc-s-Bot](https://github.com/Jairoy2426/Herc-s-Bot) | Automation / Backend | Discord.js, Node.js | Discord bot development, command architecture, service automation |
+| [LSSC-Website](https://github.com/Jairoy2426/LSSC-Website) | Web / Community | HTML, CSS, JavaScript | Frontend development, community platform |
+| [Herc-s-Bot-Logs](https://github.com/Jairoy2426/Herc-s-Bot-Logs) | Ops / Logging | Markdown / JSON | Operational logging, bot event tracking |
 | [ctf-writeups](https://github.com/Jairoy2426/ctf-writeups) | Security Practice | Markdown | CTF methodology, practical security problem-solving |
 
 ---
