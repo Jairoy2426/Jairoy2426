@@ -230,6 +230,8 @@ Examples from my work:
 
 ## Project Directory
 
+> **Note on contributions:** Repos marked *Issue* indicate I raised a GitHub issue in that project — not a code contribution.
+
 | Repository | Category | Core Technologies | What it demonstrates |
 |---|---|---|---|
 | [wazuh-siem-homelab](https://github.com/Jairoy2426/wazuh-siem-homelab) | Security Operations | Wazuh, Proxmox, Ubuntu, Windows, Sysmon | SIEM deployment, detection engineering, MITRE ATT&CK mapping |
@@ -243,6 +245,8 @@ Examples from my work:
 | [LSSC-Website](https://github.com/Jairoy2426/LSSC-Website) | Web / Community | HTML, CSS, JavaScript | Frontend development, community platform |
 | [Herc-s-Bot-Logs](https://github.com/Jairoy2426/Herc-s-Bot-Logs) | Ops / Logging | Markdown / JSON | Operational logging, bot event tracking |
 | [ctf-writeups](https://github.com/Jairoy2426/ctf-writeups) | Security Practice | Markdown | CTF methodology, practical security problem-solving |
+| [nmap](https://github.com/nmap/nmap) | Open Source — Issue | C/C++, Lua (NSE) | Raised issue in one of the most widely-used network security scanners |
+| [headroomlabs-ai](https://github.com/headroomlabs-ai) | Open Source — Issue | AI tooling | Raised issue in headroomlabs-ai project |
 
 ---
 
