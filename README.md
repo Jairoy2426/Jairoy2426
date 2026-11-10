@@ -1,4 +1,4 @@
-![Jai Roy, also known as Hercules. DevOps, cybersecurity, and software development in New Delhi, India.](assets/hero.svg)
+![Jai Roy, also known as Hercules. DevOps, cybersecurity, and software development in New Delhi, India.](assets/hero-white.svg)
 
 [![GitHub activity with a contribution calendar and monthly totals](assets/activity.svg)](https://github.com/Jairoy2426#js-contribution-activity)
 
