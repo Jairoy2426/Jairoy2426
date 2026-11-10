@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="148" viewBox="0 0 800 148" role="img" aria-label="DevOps: deployment automation. Cybersecurity: detection and hardening. Software: full-stack systems.">
+  <rect width="258" height="148" rx="13" fill="#304bd8"/>
+  <rect x="271" width="258" height="148" rx="13" fill="#b93028"/>
+  <rect x="542" width="258" height="148" rx="13" fill="#f4c24d"/>
+  <g font-family="Georgia, Times New Roman, serif" font-size="33">
+    <text x="21" y="60" fill="#fff">DevOps</text>
+    <text x="292" y="60" fill="#fff">Cybersecurity</text>
+    <text x="563" y="60" fill="#1c211b">Software</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="18">
+    <text x="21" y="98" fill="#fff">Deployment</text>
+    <text x="21" y="122" fill="#fff">automation</text>
+    <text x="292" y="98" fill="#fff">Detection &amp;</text>
+    <text x="292" y="122" fill="#fff">hardening</text>
+    <text x="563" y="98" fill="#1c211b">Full-stack</text>
+    <text x="563" y="122" fill="#1c211b">systems</text>
+  </g>
+</svg>
